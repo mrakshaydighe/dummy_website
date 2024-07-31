@@ -135,17 +135,6 @@ header {
     margin: 0 auto 20px auto;
 }
 
-.content {
-    position: relative;
-}
-
-.text {
-    width: calc(100% - 30% - 20px);
-    margin: 0;
-    float: left;
-    box-sizing: border-box;
-}
-
 .text p {
     text-align: justify;
     margin: 0 0 20px 0;
